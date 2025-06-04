@@ -1,9 +1,9 @@
 {
   "comparator_output": 15,
   "description": {
-    "translate": "item.tutorialmod.canopy_music_disc.desc"
+    "translate": "item.tutorialmod.canopy.desc"
 
   },
-  "lenght_in_seconds": 85.0,
-  "sound_event": "tutorialmod:canopy_music_disc"
+  "length_in_seconds": 85.0,
+  "sound_event": "tutorialmod:canopy"
 }

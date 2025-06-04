@@ -40,8 +40,8 @@ public class TutorialMod
         modEventBus.addListener(this::commonSetup);
 
         Moditems.register(modEventBus);
-        ModBlocks.register(modEventBus);
         ModSounds.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         ModLootModifiers.register(modEventBus);
         // Register ourselves for server and other game events we are interested in
