@@ -1,0 +1,14 @@
+{
+  "item.tutorialmod.alexandrite": "Alexandrite",
+  "item.tutorialmod.raw_alexandrite": "Raw Alexandrite",
+  "item.tutorialmod.ocean_crystal": "Ocean Crystal",
+  "item.tutorialmod.cavern_crystal": "Cavern Crystal",
+  "item.tutorialmod.desert_crystal": "Desert Crystal",
+  "item.tutorialmod.earthen_crystal": "Earthen Crystal",
+  "item.tutorialmod.forest_crystal": "Forest Crystal",
+  "item.tutorialmod.jungle_crystal": "Jungle Crystal",
+  "item.tutorialmod.snow_crystal": "Snow Crystal",
+  "block.tutorialmod.alexandrite_block": "Block of Alexandrite",
+  "item.tutorialmod.canopy_music_disc": "Music Disc",
+  "item.tutorialmod.canopy_music_disc.desc": "Canopy - Hayden Jones"
+}

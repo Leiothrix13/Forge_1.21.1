@@ -1,0 +1,10 @@
+{
+  "canopy": {
+    "sounds": [
+      {
+        "name": "tutorialmod:canopy",
+        "stream": true
+      }
+    ]
+  }
+}
