@@ -1,0 +1,25 @@
+{
+"type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "A":{
+      "tag": "minecraft:bamboo_blocks"
+    },
+    "B":{
+      "item": "minecraft:blaze_powder"
+    } ,
+  "C":{
+    "item":"tutorialmod:jungle_crystal"
+  }
+  },
+  "pattern": [
+    "B",
+    "C",
+    "A"
+  ],
+  "result": {
+    "count": 2,
+    "id": "tutorialmod:jungle_crystal"
+  }
+}

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": {
-      "tag": "tutorialmod:crystals"
+      "item": "tutorialmod:cavern_crystal"
     },
     "B": {
       "item":"minecraft:ender_pearl"
@@ -11,12 +11,30 @@
     "C":
     {
       "item": "minecraft:blaze_powder"
+    },
+    "D": {
+      "item" : "tutorialmod:desert_crystal"
+    },
+    "E": {
+      "item": "tutorialmod:earthen_crystal"
+    },
+    "F": {
+      "item": "tutorialmod:forest_crystal"
+    },
+    "G": {
+      "item": "tutorialmod:jungle_crystal"
+    },
+    "H": {
+      "item": "tutorialmod:ocean_crystal"
+    },
+    "I": {
+      "item": "tutorialmod:snow_crystal"
     }
   },
   "pattern": [
-    "ACA",
-    "ABA",
-    "AAA"
+    "ACI",
+    "DBH",
+    "EFG"
   ],
   "result": {
     "count": 1,
