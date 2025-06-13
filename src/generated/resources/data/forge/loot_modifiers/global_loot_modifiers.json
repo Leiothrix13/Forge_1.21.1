@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "tutorialmod:canopy_from_buried_treasure",
+    "tutorialmod:desert_crystal_from_desert_temple",
+    "tutorialmod:snow_crystal_from_igloo",
+    "tutorialmod:jungle_crystal_from_jungle_temple",
+    "tutorialmod:earthen_crystal_from_blacksmith",
+    "tutorialmod:cavern_crystal_from_mineshaft",
+    "tutorialmod:forest_crystal_from_mansion",
+    "tutorialmod:ocean_crystal_from_treasure"
+  ],
+  "replace": false
+}

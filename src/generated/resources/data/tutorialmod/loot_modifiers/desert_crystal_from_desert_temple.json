@@ -3,8 +3,8 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:chests/buried_treasure"
+      "loot_table_id": "minecraft:chests/desert_pyramid"
     }
   ],
-  "item": "tutorialmod:canopy"
+  "item": "tutorialmod:desert_crystal"
 }
